@@ -1,7 +1,7 @@
 # Olá, eu sou Filipe Siqueira
 
 ### Sobre mim
-Desenvolvedor WEB e graduando em Análise e Desenvolvimento de Sistemas. Apaixonado por resolver problemas usando a tecnologia. Iniciei minha carreira na área de TI em 2013 e durante este longo período atuei em diversas áreas como:
+Desenvolvedor WEB e graduado em Análise e Desenvolvimento de Sistemas. Apaixonado por resolver problemas usando a tecnologia. Iniciei minha carreira na área de TI em 2013 e durante este longo período atuei em diversas áreas como:
 * Suporte ao usuário
 * Manutenção de computadores
 * Manutenção de redes de computadores (manutenção física, implementação de firewall, proxy, ferramentas de monitoramento, etc)
