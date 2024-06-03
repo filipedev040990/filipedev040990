@@ -1,7 +1,7 @@
 # Olá, eu sou Filipe Siqueira
 
 ### Sobre mim
-Desenvolvedor de software graduado em Análise e Desenvolvimento de Sistemas e Pós-Graduando em Arquiretura de Software. Iniciei minha carreira na área de TI em 2013 e durante este longo período atuei em diversas áreas como:
+Engenheiro de software graduado em Análise e Desenvolvimento de Sistemas e Pós-Graduando em Arquiretura de Software. Iniciei minha carreira na área de TI em 2013 e durante este longo período atuei em diversas áreas como:
 * Suporte ao usuário
 * Manutenção de computadores
 * Manutenção de redes de computadores (manutenção física, implementação de firewall, proxy, ferramentas de monitoramento, etc)
